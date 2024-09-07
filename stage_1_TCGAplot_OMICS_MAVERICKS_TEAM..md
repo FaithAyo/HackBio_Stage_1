@@ -2,9 +2,9 @@
 
 Authors (@slack): Obibuogu Emmanuel Chidiebere (@Chiddo), Leens Witts (@leens), Faith Oluyinka Ayoade (@FaithAyo1), Maurice Godwin (@Maurice)
 
-#### Authors github acount): [@leenswitts](https://github.com/leenswitts) [@Maurice31-prog](https://github.com/Maurice31-prog/Maurice31-prog) [@chidi03](https://github.com/Chidi03) [@FaithAyo]()
+#### Authors' github accounts [@leenswitts](https://github.com/leenswitts) [@Maurice31-prog](https://github.com/Maurice31-prog/Maurice31-prog) [@chidi03](https://github.com/Chidi03) [@FaithAyo](https://github.com/FaithAyo)
 
-This topic was also explained on by this team on linkedln [linkedln page](https://www.linkedin.com/in/faith-oluyinka-ayoade-31337611a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3oyfdlbhTnu3T32iG1D80w%3D%3D)
+A video on the above topic by the team is on LinkedIn [Here](https://www.linkedin.com/posts/leens-witts_tcgaplot-bioinformatics-activity-7238310068679524352-j7sO?utm_source=share&utm_medium=member_desktop)
 
 
 ## Introduction
